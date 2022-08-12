@@ -1,0 +1,5 @@
+{
+  "editor.tabCompletion": "on",
+  "diffEditor.codeLens": true,
+  "vue3snippets.enable-compile-vue-file-on-did-save-code": false
+}

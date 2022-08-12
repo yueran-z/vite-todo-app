@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "vue.volar",
+    "tabnine.tabnine-vscode",
+    "visualstudioexptteam.vscodeintellicode",
+    "kiteco.kite",
+    "kisstkondoros.vscode-gutter-preview",
+    "MariusAlchimavicius.json-to-ts"
+  ]
+}
